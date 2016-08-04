@@ -1,0 +1,2 @@
+# YJYYPullToScaleHeader
+下拉时放大图片 scrollView的子类都可以
